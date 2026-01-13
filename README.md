@@ -1,1 +1,1 @@
-# neurophilosopher
+# Нейрофилософ
